@@ -133,3 +133,9 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 ```bash
 npm uninstall cypress
 ```
+
+---
+
+elimu.ai - Free personalized learning for every child on Earth 🌍🌏🌎
+
+[Website 🌐](https://elimu.ai) &nbsp; [Wiki 📃](https://github.com/elimu-ai/wiki#readme) &nbsp; [Projects 👩🏽‍💻](https://github.com/elimu-ai/wiki/projects) &nbsp; [Milestones 🎯](https://github.com/elimu-ai/wiki/milestones) &nbsp; [Community 👋🏽](https://github.com/elimu-ai/wiki#open-source-community)
