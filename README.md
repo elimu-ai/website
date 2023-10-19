@@ -1,4 +1,4 @@
-# elimu.ai Website ℹ️
+# elimu.ai Informational Website ℹ️
 
 This website exists to
 - Explain what the elimu.ai software does
