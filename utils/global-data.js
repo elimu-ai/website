@@ -7,7 +7,7 @@ export const getGlobalData = () => {
     : 'Free personalized learning for every child on Earth ✨🚀';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
-    : 'The purpose of elimu.ai is to provide disadvantaged children with access to quality basic education.';
+    : 'elimu.ai\'s mission is to build educational technology that enables out-of-school children to teach themselves basic literacy & numeracy skills.';
 
   return {
     name,
