@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const sunIcon = (
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -80,7 +82,8 @@ const ThemeSwitcher = () => {
 export default function Footer({ copyrightText }) {
   return (
     <footer className="py-16 px-6 lg:px-16 flex flex-col items-center">
-      <p className="dark:text-white uppercase mb-3 font-bold opacity-60">
+      <Image className="mb-3 rounded-2xl" src='/autonomous_learning.jpg' alt='Autonomous learning' width={400} height={0} />
+      <p className="dark:text-white uppercase mb-3 font-bold opacity-60 text-center">
         {copyrightText}
       </p>
       <ThemeSwitcher />
