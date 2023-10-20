@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const sunIcon = (
   <svg
@@ -87,6 +88,12 @@ export default function Footer({ copyrightText }) {
         {copyrightText}
       </p>
       <ThemeSwitcher />
+      <p className="mt-6 text-center">
+        <Link href='https://github.com/elimu-ai/wiki#readme'>Wiki 📃</Link><br />
+        <Link href='https://github.com/elimu-ai/wiki/projects?query=is%3Aopen'>Projects 👩🏽‍💻</Link><br />
+        <Link href='https://github.com/elimu-ai/wiki/milestones'>Milestones 🎯</Link><br />
+        <Link href='https://github.com/elimu-ai/wiki#open-source-community'>Community 👋🏽</Link>
+      </p>
     </footer>
   );
 }
