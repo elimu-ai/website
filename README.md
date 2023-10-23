@@ -1,6 +1,10 @@
-# elimu.ai Website
+# elimu.ai Informational Website ℹ️
 
-This website is only for explaining the overall purpose and organization of elimu.ai, while the webapp for hosting Open Education Resources (OERs) can be found at https://github.com/elimu-ai/webapp
+This website exists to
+- Explain what the elimu.ai software does
+- Explain how to download the elimu.ai software
+
+While the `webapp` for hosting Open Education Resources (OERs) can be found at https://github.com/elimu-ai/webapp
 
 ## Run website locally
 
