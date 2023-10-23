@@ -4,10 +4,10 @@ export const getGlobalData = () => {
     : 'elimu.ai';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
-    : 'Free personalized learning for every child on Earth ✨🚀';
+    : 'Free open source learning software for out-of-school children ✨🚀';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
-    : 'The purpose of elimu.ai is to provide disadvantaged children with access to quality basic education.';
+    : 'elimu.ai\'s mission is to build innovative learning software that empowers out-of-school children to teach themselves basic reading, writing and arithmetic within 6 months.';
 
   return {
     name,
