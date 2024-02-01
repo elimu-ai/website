@@ -92,7 +92,7 @@ export default function Footer({ copyrightText }) {
         <Link href='https://github.com/elimu-ai/wiki#readme'>Wiki 📃</Link><br />
         <Link href='https://github.com/elimu-ai/wiki/projects?query=is%3Aopen'>Projects 👩🏽‍💻</Link><br />
         <Link href='https://github.com/elimu-ai/wiki/milestones'>Milestones 🎯</Link><br />
-        <Link href='https://github.com/elimu-ai/wiki#open-source-community'>Community 👋🏽</Link>
+        <Link href='https://github.com/elimu-ai/wiki#open-source-community'>Community 👋🏽</Link><br />
         <Link href='https://snapshot.org/#/elimu.eth'>Governance 🗳️</Link>
       </p>
     </footer>
