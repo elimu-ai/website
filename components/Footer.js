@@ -94,7 +94,7 @@ export default function Footer({ copyrightText }) {
         <Link href='https://github.com/elimu-ai/wiki/milestones'>Milestones 🎯</Link><br />
         <Link href='https://github.com/elimu-ai/wiki#open-source-community'>Community 👋🏽</Link><br />
         <Link href='https://www.drips.network/app/drip-lists/41305178594442616889778610143373288091511468151140966646158126636698' aria-label='Visit Drips page'>Drip List 💧</Link><br />
-        <Link href='https://github.com/elimu-ai/web3-wiki/blob/main/TOKENOMICS.md'>Tokenomics 💎</Link>
+        <Link href='https://github.com/elimu-ai/web3-wiki/blob/main/TOKENOMICS.md'>$ELIMU 💎</Link>
       </p>
     </footer>
   );
