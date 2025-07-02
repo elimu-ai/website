@@ -28,7 +28,7 @@
     "cypress": "^14.5.0",
     "gray-matter": "^4.0.2",
     "next": "^15.3.3",
-    "next-mdx-remote": "^4.1.0",
+    "next-mdx-remote": "^5.0.0",
     "next-remote-watch": "2.0.0",
     "prismjs": "^1.30.0",
     "react": "^18.0.0",
